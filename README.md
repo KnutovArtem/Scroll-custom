@@ -6,6 +6,8 @@
 
 ---
 
+![Simplebar](https://user-images.githubusercontent.com/16353858/85533930-9d6faa00-b619-11ea-919b-a54a5b137630.png)
+
 #### Installation <br>
 npm `npm install simplebar --save` <br>
 yarn `yarn add simplebar`
