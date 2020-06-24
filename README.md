@@ -11,9 +11,13 @@
 npm `npm install simplebar --save` <br>
 yarn `yarn add simplebar`
 
+<br>
+
 ##### file path <br>
 `./node_modules/simplebar/dist/simplebar.js` <br>
 `./node_modules/simplebar/dist/simplebar.css`
+
+<br>
 
 ##### adding atribute `data-simplebar`<br>
 ```html
@@ -24,7 +28,10 @@ yarn `yarn add simplebar`
 </ul>                   
 ```
 
+<br>
+
 ##### replacement default style ccroll <br>
+
 ```css
 /*hover*/
 .simplebar-visible:before{
