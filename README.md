@@ -1,10 +1,8 @@
-### Gulp: starting template.
+### Scroll-custom
 
 ---
 
-Start project: <br>
-command `gulp`
+Кроссбраузерная стилизация скроллбара.
 
 ---
 
-! Make changes to the file gitignore
