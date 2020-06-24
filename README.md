@@ -6,7 +6,7 @@
 
 ---
 
-#####Installation <br>
+##### Installation <br>
 npm `npm install simplebar --save` <br>
 yarn `yarn add simplebar`
 
