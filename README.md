@@ -5,8 +5,7 @@
 *Custom sidebar using the plugin [Simplebar](https://github.com/Grsmto/simplebar)*
 
 ---
-
-![Simplebar](https://user-images.githubusercontent.com/16353858/85533930-9d6faa00-b619-11ea-919b-a54a5b137630.png)
+![bandicam-2020-06-24-15-03-40-380](https://user-images.githubusercontent.com/16353858/85553067-49ba8c00-b62c-11ea-9d4c-5ac458334327.gif)
 
 #### Installation <br>
 npm `npm install simplebar --save` <br>
