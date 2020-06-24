@@ -1,10 +1,9 @@
-### Gulp: starting template.
+### Custom sidebar.
 
----
 
-Start project: <br>
-command `gulp`
 
----
+Custom sidebar using the plugin [Simplebar](https://github.com/Grsmto/simplebar)
 
-! Make changes to the file gitignore
+
+
+
