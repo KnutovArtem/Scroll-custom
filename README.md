@@ -16,6 +16,14 @@ yarn `yarn add simplebar`
 `./node_modules/simplebar/dist/simplebar.js` <br>
 `./node_modules/simplebar/dist/simplebar.css`
 
+##### adding atribute `data-simplebar`<br>
+```html
+<ul data-simplebar>
+  <li></li>
+  ...
+</ul>                   
+```
+
 ##### style css <br>
 ```css
 /*hover*/
