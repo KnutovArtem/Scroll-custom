@@ -6,11 +6,11 @@
 
 ---
 
-##### Installation <br>
+#### Installation <br>
 npm `npm install simplebar --save` <br>
 yarn `yarn add simplebar`
 
-**file path** <br>
-`./node_modules/simplebar/dist/simplebar.js`
+##### file path <br>
+`./node_modules/simplebar/dist/simplebar.js` <br>
 `./node_modules/simplebar/dist/simplebar.css`
 
