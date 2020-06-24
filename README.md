@@ -33,11 +33,17 @@ yarn `yarn add simplebar`
 ##### Replacement default style scroll <br>
 
 ```css
+/*padding*/
+.simplebar-vertical{
+   margin-right: 5px;
+  }
+  
 /*hover*/
 .simplebar-visible:before{
   display: block !important;
   opacity: 5 !important;
 }
+
 /*default style scroll*/
 .simplebar-scrollbar:before {
   position: absolute;
