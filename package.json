@@ -23,7 +23,8 @@
     "gulp-uglify": "^3.0.2"
   },
   "dependencies": {
-    "babel-plugin-loop-optimizer": "^1.4.1"
+    "babel-plugin-loop-optimizer": "^1.4.1",
+    "simplebar": "^5.2.1"
   },
   "repository": {
     "type": "git",

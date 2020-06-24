@@ -32,6 +32,7 @@ gulp.task('browser-sync', function () {
 // js
 gulp.task('js', function () {
 	return gulp.src([
+			'./node_modules/simplebar/dist/simplebar.js',
 			'app/js/common.js',
 		])
 		.pipe(babel())
@@ -45,7 +46,10 @@ gulp.task('js', function () {
 
 // sass
 gulp.task('scss', function () {
-	return gulp.src('app/sass/**/*.scss')
+	return gulp.src([
+		'./node_modules/simplebar/dist/simplebar.css',
+		'app/sass/**/*.scss'
+	])
 		.pipe(sass({
 			outputStyle: 'expand'
 		}).on("error", notify.onError()))
