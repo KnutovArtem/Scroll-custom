@@ -7,30 +7,31 @@
 ---
 ![bandicam-2020-06-24-15-03-40-380](https://user-images.githubusercontent.com/16353858/85553067-49ba8c00-b62c-11ea-9d4c-5ac458334327.gif)
 
-#### Installation <br>
+## Installation <br>
 npm `npm install simplebar --save` <br>
 yarn `yarn add simplebar`
 
-##### file path in the gulp <br>
+##### file path <br>
 `./node_modules/simplebar/dist/simplebar.js` <br>
 `./node_modules/simplebar/dist/simplebar.css`
 
 ##### adding atribute `data-simplebar`<br>
 ```html
-<ul data-simplebar>
-  <li></li>
+<ul class="items" data-simplebar>
+  <li class="items"></li>
+  <li class="items"></li>
   ...
 </ul>                   
 ```
 
-##### style css <br>
+##### replacement default style ccroll <br>
 ```css
 /*hover*/
 .simplebar-visible:before{
   display: block !important;
   opacity: 5 !important;
 }
-/*style scroll*/
+/*default style scroll*/
 .simplebar-scrollbar:before {
   position: absolute;
   content: '';
