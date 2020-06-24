@@ -13,13 +13,13 @@ yarn `yarn add simplebar`
 
 <br>
 
-##### file path <br>
+##### File path <br>
 `./node_modules/simplebar/dist/simplebar.js` <br>
 `./node_modules/simplebar/dist/simplebar.css`
 
 <br>
 
-##### adding atribute `data-simplebar`<br>
+##### Adding atribute `data-simplebar`<br>
 ```html
 <ul class="items" data-simplebar>
   <li class="items"></li>
@@ -30,7 +30,7 @@ yarn `yarn add simplebar`
 
 <br>
 
-##### replacement default style ccroll <br>
+##### Replacement default style scroll <br>
 
 ```css
 /*hover*/
